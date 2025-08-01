@@ -1,4 +1,4 @@
-Nextjs
-Shadcn UI library
-Tailwindcss
+Nextjs<br/>
+Shadcn UI library<br/>
+Tailwindcss<br/>
 postgresql database ===> NEONDB
